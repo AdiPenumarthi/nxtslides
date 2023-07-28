@@ -1,0 +1,17 @@
+.tabs-app-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.tabs-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 80vh;
+  overflow-y: scroll;
+  padding: 0px;
+  width: 280px;
+  background-color: transparent;
+}

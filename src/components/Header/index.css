@@ -1,0 +1,23 @@
+.navbar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100px;
+  width: 100%;
+  background-color: #dbeafe;
+  padding-left: 25px;
+}
+
+.nxt-slides-logo {
+  width: 60px;
+  height: 60px;
+  margin-right: 20px;
+}
+
+.navbar-heading {
+  font-family: Bree Serif;
+  font-size: 30px;
+  color: #0f172a;
+  font-weight: bold;
+}

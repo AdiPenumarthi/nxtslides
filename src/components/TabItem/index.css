@@ -1,0 +1,55 @@
+.active-tab {
+  background-color: #dbeafe;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px;
+  height: 250px;
+}
+
+.tab-item {
+  background-color: transparent;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px;
+  height: 250px;
+}
+
+.slide-num {
+  align-self: flex-start;
+  font-weight: 600;
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+.slide-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8fafc;
+  width: 190px;
+  height: 130px;
+  border-radius: 10px;
+  margin-right: 15px;
+}
+
+.heading {
+  color: #0967d2;
+  font-family: bree serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.description {
+  color: #334155;
+  font-family: bree serif;
+  font-size: 16px;
+  font-weight: 500;
+  text-overflow: inherit;
+}
